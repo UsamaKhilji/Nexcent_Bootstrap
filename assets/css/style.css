@@ -232,21 +232,19 @@
 }
 
 #client-help .client-h {
-    width: Fixed (540px)px;
-    height: Hug (120px)px;
     gap: 8px;
     opacity: 0px;
 }
 
 #client-help .client-h h2 {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 600;
     line-height: 44px;
     text-align: left;
 }
 
 #client-help .client-h h2 span {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 600;
     line-height: 44px;
     text-align: left;
